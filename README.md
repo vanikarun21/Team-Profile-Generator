@@ -5,7 +5,6 @@
 * Application demo link: 
 
 
-* Mockup
-<br>
-<br>
+* Mockup<br>
+
 ![myteam.](./assests/mockup.jpg)
