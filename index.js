@@ -124,7 +124,7 @@ const questions = async () => {
   function createTeam () {
     console.log("new guy", newStaffMemberData)
     fs.writeFileSync(
-      "./output/index.html",
+      "./index.html",
       generateTeam(newStaffMemberData),
       "utf-8"
     );
